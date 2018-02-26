@@ -1,0 +1,1 @@
+This will be a skill glossary for all D1 Skills

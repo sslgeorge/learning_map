@@ -1,0 +1,1 @@
+This is the Facilitator Guide for the Andela Learning Map. It has Learning Outcomes for each of the main responsibilities of an Andela Learning & Development Facilitator, including Defining Learning Outcomes, Facilitating Fellows, and Tracking Fellow Progress.
